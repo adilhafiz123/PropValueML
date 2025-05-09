@@ -82,9 +82,6 @@ Input layer: Normalised property features
 
 Output layer: Single predicted price value (linear)
 
-css
-Copy
-Edit
 [Input] → [Dense 64, ReLU] → [Dense 64, ReLU] → [Output]
 ## 🔮 Future Work
 Incorporate geospatial coordinates
