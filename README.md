@@ -37,10 +37,14 @@ Ideal for:
 | Feature                         | Value                     |
 |---------------------------------|---------------------------|
 | Bedrooms                        | 3                         |
+| Bathrooms                       | 1                         |
+| Property Type                   | Flat                      |
+| Tenure                          | Leasehold                 |
 | Location (Borough)              | Camden                    |
+| Floor Area                      | 85.0                      |
 | Property Type                   | Flat                      |
 | Year Built                      | 2001                      |
-| **Predicted Price (£)**         | **£612,000**              |
+| **Predicted Price (£)**         | **£682,000**              |
 
 ---
 
